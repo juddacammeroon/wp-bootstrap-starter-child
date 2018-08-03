@@ -1,0 +1,22 @@
+/*
+Theme Name: Malta Crafts Portal
+Theme URI: https://afterimagedesigns.com/wp-bootstrap-starter/
+Template: wp-bootstrap-starter
+Author: Webee
+Author URI: https://www.web-design-malta.com/
+Description: Child Theme based on WP Bootstrap Starter Theme. Developed by Webee Ltd.
+Tags: blog,custom-menu,featured-images,threaded-comments,translation-ready,right-sidebar,custom-background,e-commerce,theme-options,sticky-post,full-width-template
+Version: 3.1.0.1533310635
+Updated: 2018-08-03 15:37:15
+
+*/
+
+section {
+	width: 100%;
+}
+
+@media (min-width: 1200px) {
+	.container {
+	    max-width: 1320px;
+	}
+}

@@ -1,0 +1,17 @@
+.woocommerce form .form-row {
+	width: 100%;
+	display: inline-block;
+}
+.woocommerce form .form-row label,
+.woocommerce-input-wrapper {
+	width: 50%;
+	float: left;
+}
+.woocommerce form .form-row#billing_address_2_field .woocommerce-input-wrapper,
+.woocommerce form .form-row#shipping_address_2_field .woocommerce-input-wrapper {
+	float: right;
+}
+.woocommerce form .form-row textarea {
+	min-height: 150px;
+    resize: none;
+}
